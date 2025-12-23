@@ -1,0 +1,39 @@
+# --- DayZ/Arma Specific ---
+
+# Packed files and Signatures (Build artifacts)
+*.pbo
+*.bisign
+*.bikey
+
+# Logs and Crash Reports
+*.rpt
+*.log
+*.mdmp
+*.bidmp
+
+# Workbench / Tools Temp files
+*.bak
+*.tmp
+temp/
+Backup/
+.WorkDrive/
+
+# Packed/Binaried versions of configs (if keeping source separate)
+*.bin
+
+# --- IDE / Editor Specific ---
+
+# VS Code
+.vscode/
+
+# Mikero Tools (if used)
+*.mikero
+
+# --- OS Specific ---
+
+# Windows
+Thumbs.db
+Desktop.ini
+
+# Mac (if applicable)
+.DS_Store
