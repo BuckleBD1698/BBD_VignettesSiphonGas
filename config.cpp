@@ -18,7 +18,7 @@ class CfgMods
 	class BBD_VignettesSiphonGas_Mod
 	{
 		dir 		= "BBD_VignettesSiphonGas";
-		name 		= "";
+		name 		= "Vignettes Siphon Fuel";
 		author 		= "BuckleBD";
 		credits 	= "";
 		creditsJSON = "";
